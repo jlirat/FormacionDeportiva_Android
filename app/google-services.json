@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "850233673976",
+    "firebase_url": "https://formacion-deportiva.firebaseio.com",
+    "project_id": "formacion-deportiva",
+    "storage_bucket": "formacion-deportiva.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850233673976:android:ad3a320efbfaa9d284d30d",
+        "android_client_info": {
+          "package_name": "sahfer.FormacionDeportiva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850233673976-bot5hbvc0pqkeia5lv8cccv56gn1ebjt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sahfer.FormacionDeportiva",
+            "certificate_hash": "632317bef7fd9946edc7b1da3ab0158b67121b6f"
+          }
+        },
+        {
+          "client_id": "850233673976-7v92pgrm0v03oas3b76hpb1cp2p4tm8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgHyiSa3UCrl07eMGfFPFrzPLwvgi5Zwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850233673976-7v92pgrm0v03oas3b76hpb1cp2p4tm8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
